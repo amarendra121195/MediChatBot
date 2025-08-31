@@ -1,4 +1,4 @@
-streamlit # used for web app interface
+# streamlit # used for web app interface
 fpdf # used for generating PDF files
 pypdf # used for PDF manipulation
 faiss-cpu # used for efficient similarity search
@@ -7,3 +7,7 @@ euriai  # AI services
 langchain_community # community-contributed LangChain modules
 sentence-transformers # used for generating sentence embeddings
 uvicorn
+streamlit==1.38.0   # (latest stable)
+pandas
+numpy
+pypdf
