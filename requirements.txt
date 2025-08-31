@@ -1,0 +1,8 @@
+streamlit # used for web app interface
+fpdf # used for generating PDF files
+pypdf # used for PDF manipulation
+faiss-cpu # used for efficient similarity search
+langchain # used for building language model applications
+euriai  # AI services
+langchain_community # community-contributed LangChain modules
+sentence-transformers # used for generating sentence embeddings
