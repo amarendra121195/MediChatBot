@@ -6,3 +6,4 @@ langchain # used for building language model applications
 euriai  # AI services
 langchain_community # community-contributed LangChain modules
 sentence-transformers # used for generating sentence embeddings
+uvicorn
